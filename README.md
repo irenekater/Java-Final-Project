@@ -1,2 +1,1 @@
-# Java-Final-Project
-Project of Java Course @ University of Turin
+# Project of Java Course @ University of Turin (BCs in ICT)
